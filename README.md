@@ -7,7 +7,7 @@
 const jessica = {
   location: "Boston, MA",
   tech: [Python, Javascript, HTML, CSS/SCSS, SQL],
-  tools: [React, Redux, Django, Flask, BeautifulSoup, Styled-Components, Bootstrap, PostgreSQL, Firebase, AWS S3],
+  tools: [React, Redux, Django, Flask, BeautifulSoup, Styled-Components, Bootstrap, Firebase, AWS S3],
   funFact: "former cosmetic chemist turned software engineer",
   enjoys: ["coffee", "bubble tea", "logic puzzles", "video games", "traveling", "learning new things"],
 }
